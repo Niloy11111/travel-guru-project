@@ -9,7 +9,7 @@ const Header = () => {
       <header className="">
         <div className="flex justify-between gap-36">
           <div className=" ">
-            <h1 className="text-8xl text-[#FFF]">Cox's bazar sdfsfsdfsdfsd</h1>
+            <h1 className="text-8xl text-[#FFF]">Cox's bazar </h1>
 
             <p className="text-[white] ">
               Cox's Bazar is a city, fishing port, tourism centre and district
