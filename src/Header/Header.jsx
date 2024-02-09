@@ -9,12 +9,12 @@ const Header = () => {
       <header className="">
         <div className="flex justify-between gap-36">
           <div className=" ">
-            <h1 className="text-8xl text-[#FFF]">Cox's bazar</h1>
+            <h1 className="text-8xl text-[#FFF]">Cox's bazar sdfsfsdfsdfsd</h1>
 
             <p className="text-[white] ">
               Cox's Bazar is a city, fishing port, tourism centre and district
               headquarters <br /> in southeastern Bangladesh. It is famous
-              mostly for its long natural sandy beach, and it ...
+              mostly for sdfsdfsdfsd its long natural sandy beach, and it ...
             </p>
             <button className="bg-[#F9A51A] mt-8 text-black px-8 py-3 rounded-lg flex gap-2 items-center">
               Booking <AiOutlineArrowRight></AiOutlineArrowRight>
